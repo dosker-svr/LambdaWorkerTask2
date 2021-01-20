@@ -1,6 +1,6 @@
 package LambdaWorkerTask2;
 
-public class Worker extends Main {
+public class Worker {
     private OnTaskDoneListener callback;
     private OnTaskErrorListener errorCallback;
 
